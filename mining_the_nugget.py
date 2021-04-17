@@ -1,4 +1,3 @@
-#YT Turorial: https://www.youtube.com/watch?v=ZhnJ1bkIWWk&t=1022s
 #Imports
 from hashlib import sha256
 import time
