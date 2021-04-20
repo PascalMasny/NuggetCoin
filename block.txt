@@ -1,0 +1,19 @@
+chain = Blockchain()
+
+block_name = Block(prev_hash, data)
+# bei erstem block (initial Block):
+block_name = Block(None, data)
+
+chain.add(block_name)
+
+chain.build_block(data)
+
+
+chain.difficulty = 5 # 3 ist gut
+
+chain.last_block.nonce #hash durchläufe sehen
+
+for b in chain.blocks:
+    print(b)
+
+# alle bloks anzeigen
