@@ -25,3 +25,8 @@ It contains the previous hash and the current hash.
 [Blockchain tutorial](https://www.youtube.com/watch?v=pYasYyjByKI)
 <br>
 [Crypto mining tutorial](https://www.youtube.com/watch?v=ZhnJ1bkIWWk&t=1022s)
+
+
+# Push Token to Net
+https://www.quicknode.com/guides/solidity/how-to-create-and-deploy-an-erc20-token
+
