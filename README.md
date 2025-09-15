@@ -29,4 +29,8 @@ It contains the previous hash and the current hash.
 
 # Push Token to Net
 https://www.quicknode.com/guides/solidity/how-to-create-and-deploy-an-erc20-token
+dsdsd
+
+
+:wq
 
